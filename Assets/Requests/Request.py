@@ -1,14 +1,4 @@
-# import json, requests
-
-# url = 'http://maps.googleapis.com/maps/api/directions/json'
-
-# #params = dict(
-# #   
-# #)
-
-# resp = requests.get(url=url, params=params)
-# data = json.loads(resp.text)
-import http.client, requests
+import http.client, requests, json
 
 conn = http.client.HTTPSConnection("hackgt-api.ncrcloud.com")
 
@@ -23,6 +13,11 @@ headers = {
 conn.request("GET", "/catalog/items/", headers=headers)
 
 res = conn.getresponse()
-data = res.read()
+data = res.read().decode("utf-8")
 
-print(data.decode("utf-8"))
+json_obj = json.loads(data)
+pageContent = json_obj['pageContent']
+
+print(json_obj['totalResults'])
+print(pageContent[0]['version'])
+
