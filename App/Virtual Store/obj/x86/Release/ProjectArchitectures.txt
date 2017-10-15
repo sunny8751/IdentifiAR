@@ -1,0 +1,2 @@
+C:\Users\Joshua\Documents\GitHub\Virtual-Store\App\GeneratedProjects\UWP\Assembly-CSharp\Assembly-CSharp.csproj;x86
+C:\Users\Joshua\Documents\GitHub\Virtual-Store\App\Virtual Store\Virtual Store.csproj;x86
