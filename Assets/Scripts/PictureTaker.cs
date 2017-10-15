@@ -40,6 +40,7 @@ public class PictureTaker : MonoBehaviour
         pixelWidth = Camera.main.pixelWidth;
 
         pixelHeight = Camera.main.pixelHeight;
+        //TakePicture();
     }
 
     /* 

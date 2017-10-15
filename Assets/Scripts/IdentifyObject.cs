@@ -47,8 +47,10 @@ public class IdentifyObject : MonoBehaviour {
 		{
 			//Do something with response
 			Debug.Log("WWW Ok!: " + www.text);
+            ItemInfo.SetSuccess(www.text);
         } else {
 			Debug.Log("WWW Error: "+ www.error);
+            ItemInfo.SetFail(www.text);
         }
 	}
 }

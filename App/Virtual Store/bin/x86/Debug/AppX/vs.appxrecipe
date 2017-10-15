@@ -31,13 +31,13 @@
     <AppXManifest Include="C:\Users\Joshua\Documents\GitHub\Virtual-Store\App\Virtual Store\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2017-10-15T06:19:22.515</Modified>
+      <Modified>2017-10-15T07:04:03.839</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\Users\Joshua\Documents\GitHub\Virtual-Store\App\Virtual Store\bin\x86\Debug\Virtual Store.exe">
       <PackagePath>entrypoint\Virtual Store.exe</PackagePath>
-      <Modified>2017-10-15T06:18:59.924</Modified>
+      <Modified>2017-10-15T07:03:48.533</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Joshua\.nuget\packages\microsoft.applicationinsights\1.0.0\lib\portable-win81+wpa81\Microsoft.ApplicationInsights.dll">
       <PackagePath>Microsoft.ApplicationInsights.dll</PackagePath>
@@ -501,7 +501,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Joshua\Documents\GitHub\Virtual-Store\App\Virtual Store\Resource.res">
       <PackagePath>Resource.res</PackagePath>
-      <Modified>2017-10-15T06:17:49.515</Modified>
+      <Modified>2017-10-15T07:03:01.567</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Joshua\Documents\GitHub\Virtual-Store\App\Virtual Store\Assets\SplashScreen.scale-200.png">
       <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
@@ -539,15 +539,15 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Joshua\Documents\GitHub\Virtual-Store\App\Virtual Store\Data\boot.config">
       <PackagePath>Data\boot.config</PackagePath>
-      <Modified>2017-10-15T06:16:34.920</Modified>
+      <Modified>2017-10-15T07:02:09.339</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Joshua\Documents\GitHub\Virtual-Store\App\Virtual Store\Data\globalgamemanagers">
       <PackagePath>Data\globalgamemanagers</PackagePath>
-      <Modified>2017-10-15T06:16:29.556</Modified>
+      <Modified>2017-10-15T07:02:08.562</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Joshua\Documents\GitHub\Virtual-Store\App\Virtual Store\Data\level0">
       <PackagePath>Data\level0</PackagePath>
-      <Modified>2017-10-15T06:16:28.102</Modified>
+      <Modified>2017-10-15T07:02:07.608</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Joshua\Documents\GitHub\Virtual-Store\App\Virtual Store\Data\Resources\unity default resources">
       <PackagePath>Data\Resources\unity default resources</PackagePath>
@@ -555,31 +555,31 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Joshua\Documents\GitHub\Virtual-Store\App\Virtual Store\Data\Resources\unity_builtin_extra">
       <PackagePath>Data\Resources\unity_builtin_extra</PackagePath>
-      <Modified>2017-10-15T06:16:34.885</Modified>
+      <Modified>2017-10-15T07:02:09.330</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Joshua\Documents\GitHub\Virtual-Store\App\Virtual Store\Data\globalgamemanagers.assets">
       <PackagePath>Data\globalgamemanagers.assets</PackagePath>
-      <Modified>2017-10-15T06:16:29.765</Modified>
+      <Modified>2017-10-15T07:02:08.712</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Joshua\Documents\GitHub\Virtual-Store\App\Virtual Store\Data\sharedassets0.assets">
       <PackagePath>Data\sharedassets0.assets</PackagePath>
-      <Modified>2017-10-15T06:16:29.965</Modified>
+      <Modified>2017-10-15T07:02:08.951</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Joshua\Documents\GitHub\Virtual-Store\App\Virtual Store\Data\level0.resS">
       <PackagePath>Data\level0.resS</PackagePath>
-      <Modified>2017-10-15T06:16:28.100</Modified>
+      <Modified>2017-10-15T07:02:07.602</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Joshua\Documents\GitHub\Virtual-Store\App\Virtual Store\Data\sharedassets0.assets.resS">
       <PackagePath>Data\sharedassets0.assets.resS</PackagePath>
-      <Modified>2017-10-15T06:16:29.961</Modified>
+      <Modified>2017-10-15T07:02:08.947</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Joshua\Documents\GitHub\Virtual-Store\App\Virtual Store\Data\managedAssemblies.txt">
       <PackagePath>Data\managedAssemblies.txt</PackagePath>
-      <Modified>2017-10-15T06:17:49.433</Modified>
+      <Modified>2017-10-15T07:03:01.457</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Joshua\Documents\GitHub\Virtual-Store\App\Virtual Store\Data\StreamingAssets\pic.jpg">
       <PackagePath>Data\StreamingAssets\pic.jpg</PackagePath>
-      <Modified>2017-01-10T22:42:34.797</Modified>
+      <Modified>2017-01-10T22:42:36.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.UniversalCRT.Debug\10.0.16299.0\\redist\Debug\x86\ucrtbased.dll">
       <PackagePath>ucrtbased.dll</PackagePath>
@@ -592,203 +592,203 @@
     <AppxPackagedFile Include="C:\Users\Joshua\Documents\GitHub\Virtual-Store\App\Virtual Store\bin\x86\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2017-10-15T06:19:01.822</Modified>
+      <Modified>2017-10-15T07:03:50.729</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Joshua\Documents\GitHub\Virtual-Store\App\Virtual Store\UnityEngine.TilemapModule.dll">
       <PackagePath>UnityEngine.TilemapModule.dll</PackagePath>
-      <Modified>2017-10-15T06:19:14.714</Modified>
+      <Modified>2017-10-15T07:04:00.956</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Joshua\Documents\GitHub\Virtual-Store\App\Virtual Store\UnityEngine.UNETModule.dll">
       <PackagePath>UnityEngine.UNETModule.dll</PackagePath>
-      <Modified>2017-10-15T06:19:14.863</Modified>
+      <Modified>2017-10-15T07:04:01.039</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Joshua\Documents\GitHub\Virtual-Store\App\Virtual Store\UnityEngine.UIModule.dll">
       <PackagePath>UnityEngine.UIModule.dll</PackagePath>
-      <Modified>2017-10-15T06:19:14.903</Modified>
+      <Modified>2017-10-15T07:04:01.069</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Joshua\Documents\GitHub\Virtual-Store\App\Virtual Store\UnityEngine.UIElementsModule.dll">
       <PackagePath>UnityEngine.UIElementsModule.dll</PackagePath>
-      <Modified>2017-10-15T06:19:14.996</Modified>
+      <Modified>2017-10-15T07:04:01.120</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Joshua\Documents\GitHub\Virtual-Store\App\Virtual Store\UnityEngine.StyleSheetsModule.dll">
       <PackagePath>UnityEngine.StyleSheetsModule.dll</PackagePath>
-      <Modified>2017-10-15T06:19:15.047</Modified>
+      <Modified>2017-10-15T07:04:01.145</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Joshua\Documents\GitHub\Virtual-Store\App\Virtual Store\UnityEngine.SpriteMaskModule.dll">
       <PackagePath>UnityEngine.SpriteMaskModule.dll</PackagePath>
-      <Modified>2017-10-15T06:19:15.084</Modified>
+      <Modified>2017-10-15T07:04:01.165</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Joshua\Documents\GitHub\Virtual-Store\App\Virtual Store\UnityEngine.ScreenCaptureModule.dll">
       <PackagePath>UnityEngine.ScreenCaptureModule.dll</PackagePath>
-      <Modified>2017-10-15T06:19:15.122</Modified>
+      <Modified>2017-10-15T07:04:01.184</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Joshua\Documents\GitHub\Virtual-Store\App\Virtual Store\UnityEngine.TextRenderingModule.dll">
       <PackagePath>UnityEngine.TextRenderingModule.dll</PackagePath>
-      <Modified>2017-10-15T06:19:15.170</Modified>
+      <Modified>2017-10-15T07:04:01.209</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Joshua\Documents\GitHub\Virtual-Store\App\Virtual Store\UnityEngine.TerrainPhysicsModule.dll">
       <PackagePath>UnityEngine.TerrainPhysicsModule.dll</PackagePath>
-      <Modified>2017-10-15T06:19:15.204</Modified>
+      <Modified>2017-10-15T07:04:01.227</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Joshua\Documents\GitHub\Virtual-Store\App\Virtual Store\UnityEngine.TerrainModule.dll">
       <PackagePath>UnityEngine.TerrainModule.dll</PackagePath>
-      <Modified>2017-10-15T06:19:15.245</Modified>
+      <Modified>2017-10-15T07:04:01.255</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Joshua\Documents\GitHub\Virtual-Store\App\Virtual Store\UnityEngine.VRModule.dll">
       <PackagePath>UnityEngine.VRModule.dll</PackagePath>
-      <Modified>2017-10-15T06:19:15.327</Modified>
+      <Modified>2017-10-15T07:04:01.294</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Joshua\Documents\GitHub\Virtual-Store\App\Virtual Store\UnityEngine.VideoModule.dll">
       <PackagePath>UnityEngine.VideoModule.dll</PackagePath>
-      <Modified>2017-10-15T06:19:15.379</Modified>
+      <Modified>2017-10-15T07:04:01.318</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Joshua\Documents\GitHub\Virtual-Store\App\Virtual Store\UnityEngine.VehiclesModule.dll">
       <PackagePath>UnityEngine.VehiclesModule.dll</PackagePath>
-      <Modified>2017-10-15T06:19:15.413</Modified>
+      <Modified>2017-10-15T07:04:01.337</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Joshua\Documents\GitHub\Virtual-Store\App\Virtual Store\UnityEngine.WindModule.dll">
       <PackagePath>UnityEngine.WindModule.dll</PackagePath>
-      <Modified>2017-10-15T06:19:15.469</Modified>
+      <Modified>2017-10-15T07:04:01.355</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Joshua\Documents\GitHub\Virtual-Store\App\Virtual Store\UnityEngine.WebModule.dll">
       <PackagePath>UnityEngine.WebModule.dll</PackagePath>
-      <Modified>2017-10-15T06:19:15.535</Modified>
+      <Modified>2017-10-15T07:04:01.380</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Joshua\Documents\GitHub\Virtual-Store\App\Virtual Store\UnityEngine.UnityWebRequestAudioModule.dll">
       <PackagePath>UnityEngine.UnityWebRequestAudioModule.dll</PackagePath>
-      <Modified>2017-10-15T06:19:15.564</Modified>
+      <Modified>2017-10-15T07:04:01.400</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Joshua\Documents\GitHub\Virtual-Store\App\Virtual Store\UnityEngine.UnityConnectModule.dll">
       <PackagePath>UnityEngine.UnityConnectModule.dll</PackagePath>
-      <Modified>2017-10-15T06:19:15.595</Modified>
+      <Modified>2017-10-15T07:04:01.430</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Joshua\Documents\GitHub\Virtual-Store\App\Virtual Store\UnityEngine.UnityAnalyticsModule.dll">
       <PackagePath>UnityEngine.UnityAnalyticsModule.dll</PackagePath>
-      <Modified>2017-10-15T06:19:15.646</Modified>
+      <Modified>2017-10-15T07:04:01.453</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Joshua\Documents\GitHub\Virtual-Store\App\Virtual Store\UnityEngine.UnityWebRequestWWWModule.dll">
       <PackagePath>UnityEngine.UnityWebRequestWWWModule.dll</PackagePath>
-      <Modified>2017-10-15T06:19:15.696</Modified>
+      <Modified>2017-10-15T07:04:01.475</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Joshua\Documents\GitHub\Virtual-Store\App\Virtual Store\UnityEngine.UnityWebRequestTextureModule.dll">
       <PackagePath>UnityEngine.UnityWebRequestTextureModule.dll</PackagePath>
-      <Modified>2017-10-15T06:19:15.740</Modified>
+      <Modified>2017-10-15T07:04:01.495</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Joshua\Documents\GitHub\Virtual-Store\App\Virtual Store\UnityEngine.UnityWebRequestModule.dll">
       <PackagePath>UnityEngine.UnityWebRequestModule.dll</PackagePath>
-      <Modified>2017-10-15T06:19:15.793</Modified>
+      <Modified>2017-10-15T07:04:01.521</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Joshua\Documents\GitHub\Virtual-Store\App\Virtual Store\UnityEngine.PhysicsModule.dll">
       <PackagePath>UnityEngine.PhysicsModule.dll</PackagePath>
-      <Modified>2017-10-15T06:19:15.853</Modified>
+      <Modified>2017-10-15T07:04:01.550</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Joshua\Documents\GitHub\Virtual-Store\App\Virtual Store\UnityEngine.CoreModule.dll">
       <PackagePath>UnityEngine.CoreModule.dll</PackagePath>
-      <Modified>2017-10-15T06:19:16.405</Modified>
+      <Modified>2017-10-15T07:04:01.811</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Joshua\Documents\GitHub\Virtual-Store\App\Virtual Store\UnityEngine.ClothModule.dll">
       <PackagePath>UnityEngine.ClothModule.dll</PackagePath>
-      <Modified>2017-10-15T06:19:16.437</Modified>
+      <Modified>2017-10-15T07:04:01.833</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Joshua\Documents\GitHub\Virtual-Store\App\Virtual Store\UnityEngine.AudioModule.dll">
       <PackagePath>UnityEngine.AudioModule.dll</PackagePath>
-      <Modified>2017-10-15T06:19:16.484</Modified>
+      <Modified>2017-10-15T07:04:01.861</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Joshua\Documents\GitHub\Virtual-Store\App\Virtual Store\UnityEngine.dll">
       <PackagePath>UnityEngine.dll</PackagePath>
-      <Modified>2017-10-15T06:17:11.947</Modified>
+      <Modified>2017-10-15T07:02:31.428</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Joshua\Documents\GitHub\Virtual-Store\App\Virtual Store\UnityEngine.DirectorModule.dll">
       <PackagePath>UnityEngine.DirectorModule.dll</PackagePath>
-      <Modified>2017-10-15T06:19:16.517</Modified>
+      <Modified>2017-10-15T07:04:01.881</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Joshua\Documents\GitHub\Virtual-Store\App\Virtual Store\UnityEngine.CrashReportingModule.dll">
       <PackagePath>UnityEngine.CrashReportingModule.dll</PackagePath>
-      <Modified>2017-10-15T06:19:16.555</Modified>
+      <Modified>2017-10-15T07:04:01.899</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Joshua\Documents\GitHub\Virtual-Store\App\Virtual Store\UnityEngine.AccessibilityModule.dll">
       <PackagePath>UnityEngine.AccessibilityModule.dll</PackagePath>
-      <Modified>2017-10-15T06:19:16.603</Modified>
+      <Modified>2017-10-15T07:04:01.920</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Joshua\Documents\GitHub\Virtual-Store\App\Virtual Store\UnityEngine.ARModule.dll">
       <PackagePath>UnityEngine.ARModule.dll</PackagePath>
-      <Modified>2017-10-15T06:19:16.644</Modified>
+      <Modified>2017-10-15T07:04:01.944</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Joshua\Documents\GitHub\Virtual-Store\App\Virtual Store\UnityEngine.AnimationModule.dll">
       <PackagePath>UnityEngine.AnimationModule.dll</PackagePath>
-      <Modified>2017-10-15T06:19:16.684</Modified>
+      <Modified>2017-10-15T07:04:01.980</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Joshua\Documents\GitHub\Virtual-Store\App\Virtual Store\UnityEngine.AIModule.dll">
       <PackagePath>UnityEngine.AIModule.dll</PackagePath>
-      <Modified>2017-10-15T06:19:16.714</Modified>
+      <Modified>2017-10-15T07:04:02.007</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Joshua\Documents\GitHub\Virtual-Store\App\Virtual Store\UnityEngine.ParticlesLegacyModule.dll">
       <PackagePath>UnityEngine.ParticlesLegacyModule.dll</PackagePath>
-      <Modified>2017-10-15T06:19:16.750</Modified>
+      <Modified>2017-10-15T07:04:02.043</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Joshua\Documents\GitHub\Virtual-Store\App\Virtual Store\UnityEngine.JSONSerializeModule.dll">
       <PackagePath>UnityEngine.JSONSerializeModule.dll</PackagePath>
-      <Modified>2017-10-15T06:19:16.774</Modified>
+      <Modified>2017-10-15T07:04:02.076</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Joshua\Documents\GitHub\Virtual-Store\App\Virtual Store\UnityEngine.Physics2DModule.dll">
       <PackagePath>UnityEngine.Physics2DModule.dll</PackagePath>
-      <Modified>2017-10-15T06:19:16.812</Modified>
+      <Modified>2017-10-15T07:04:02.123</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Joshua\Documents\GitHub\Virtual-Store\App\Virtual Store\UnityEngine.PerformanceReportingModule.dll">
       <PackagePath>UnityEngine.PerformanceReportingModule.dll</PackagePath>
-      <Modified>2017-10-15T06:19:16.842</Modified>
+      <Modified>2017-10-15T07:04:02.159</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Joshua\Documents\GitHub\Virtual-Store\App\Virtual Store\UnityEngine.ParticleSystemModule.dll">
       <PackagePath>UnityEngine.ParticleSystemModule.dll</PackagePath>
-      <Modified>2017-10-15T06:19:16.920</Modified>
+      <Modified>2017-10-15T07:04:02.227</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Joshua\Documents\GitHub\Virtual-Store\App\Virtual Store\UnityEngine.GridModule.dll">
       <PackagePath>UnityEngine.GridModule.dll</PackagePath>
-      <Modified>2017-10-15T06:19:16.976</Modified>
+      <Modified>2017-10-15T07:04:02.274</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Joshua\Documents\GitHub\Virtual-Store\App\Virtual Store\UnityEngine.GameCenterModule.dll">
       <PackagePath>UnityEngine.GameCenterModule.dll</PackagePath>
-      <Modified>2017-10-15T06:19:17.046</Modified>
+      <Modified>2017-10-15T07:04:02.328</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Joshua\Documents\GitHub\Virtual-Store\App\Virtual Store\UnityEngine.InputModule.dll">
       <PackagePath>UnityEngine.InputModule.dll</PackagePath>
-      <Modified>2017-10-15T06:19:17.094</Modified>
+      <Modified>2017-10-15T07:04:02.371</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Joshua\Documents\GitHub\Virtual-Store\App\Virtual Store\UnityEngine.IMGUIModule.dll">
       <PackagePath>UnityEngine.IMGUIModule.dll</PackagePath>
-      <Modified>2017-10-15T06:19:17.181</Modified>
+      <Modified>2017-10-15T07:04:02.463</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Joshua\Documents\GitHub\Virtual-Store\App\Virtual Store\UnityEngine.ImageConversionModule.dll">
       <PackagePath>UnityEngine.ImageConversionModule.dll</PackagePath>
-      <Modified>2017-10-15T06:19:17.225</Modified>
+      <Modified>2017-10-15T07:04:02.515</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Joshua\Documents\GitHub\Virtual-Store\App\Virtual Store\UnityEngine.Timeline.dll">
       <PackagePath>UnityEngine.Timeline.dll</PackagePath>
-      <Modified>2017-10-15T06:19:17.341</Modified>
+      <Modified>2017-10-15T07:04:02.626</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Joshua\Documents\GitHub\Virtual-Store\App\Virtual Store\nunit.framework.dll">
       <PackagePath>nunit.framework.dll</PackagePath>
-      <Modified>2017-10-15T06:19:17.428</Modified>
+      <Modified>2017-10-15T07:04:02.755</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Joshua\Documents\GitHub\Virtual-Store\App\Virtual Store\UnityEngine.UI.dll">
       <PackagePath>UnityEngine.UI.dll</PackagePath>
-      <Modified>2017-10-15T06:19:17.578</Modified>
+      <Modified>2017-10-15T07:04:02.885</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Joshua\Documents\GitHub\Virtual-Store\App\Virtual Store\UnityEngine.HoloLens.dll">
       <PackagePath>UnityEngine.HoloLens.dll</PackagePath>
-      <Modified>2017-10-15T06:19:17.619</Modified>
+      <Modified>2017-10-15T07:04:02.926</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Joshua\Documents\GitHub\Virtual-Store\App\Virtual Store\UnityEngine.Networking.dll">
       <PackagePath>UnityEngine.Networking.dll</PackagePath>
-      <Modified>2017-10-15T06:19:17.727</Modified>
+      <Modified>2017-10-15T07:04:03.022</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Joshua\Documents\GitHub\Virtual-Store\App\Virtual Store\Assembly-CSharp.dll">
       <PackagePath>Assembly-CSharp.dll</PackagePath>
-      <Modified>2017-10-15T06:19:14.630</Modified>
+      <Modified>2017-10-15T07:04:00.914</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Joshua\Documents\GitHub\Virtual-Store\App\Virtual Store\bin\x86\Debug\Core\Virtual Store.exe">
       <PackagePath>Virtual Store.exe</PackagePath>
-      <Modified>2017-10-15T06:19:22.482</Modified>
+      <Modified>2017-10-15T07:04:03.810</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

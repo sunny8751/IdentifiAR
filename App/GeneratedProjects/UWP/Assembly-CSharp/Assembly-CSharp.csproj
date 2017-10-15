@@ -5,7 +5,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{af790603-f4ec-4bd9-a66d-9eefb5bb8240}</ProjectGuid>
+    <ProjectGuid>{ee6ace10-efad-47b6-be6d-dee367b8af6f}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>AssemblyCSharpWSA</RootNamespace>
@@ -335,8 +335,14 @@
     <Compile Include="$(UnityProjectDir)Assets\Scripts\IdentifyObject.cs">
       <Link>Scripts\IdentifyObject.cs</Link>
     </Compile>
+    <Compile Include="$(UnityProjectDir)Assets\Scripts\ItemInfo.cs">
+      <Link>Scripts\ItemInfo.cs</Link>
+    </Compile>
     <Compile Include="$(UnityProjectDir)Assets\Scripts\PictureTaker.cs">
       <Link>Scripts\PictureTaker.cs</Link>
+    </Compile>
+    <Compile Include="$(UnityProjectDir)Assets\Scripts\SimpleJSON.cs">
+      <Link>Scripts\SimpleJSON.cs</Link>
     </Compile>
     <Compile Include="$(UnityProjectDir)Assets\Scripts\WorldCursor.cs">
       <Link>Scripts\WorldCursor.cs</Link>

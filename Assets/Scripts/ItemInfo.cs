@@ -6,18 +6,16 @@ using SimpleJSON;
 
 public class ItemInfo : MonoBehaviour {
 
-	// Use this for initialization
-	void Start () {
-    }
-
     public static void SetSuccess(string s)
     {
-
+        var N = JSON.Parse(s);
+        string val = N["description"]["captions"][0]["text"];
+        SetDescription(val);
     }
 
     public static void SetFail(string s)
     {
-        GameObject.FindWithTag("Description").GetComponent<Text>().text = "Description: " + s;
+        SetDescription("Error");
     }
 
     public static void Clear(string s)
@@ -25,7 +23,7 @@ public class ItemInfo : MonoBehaviour {
         GameObject.FindWithTag("Description").GetComponent<Text>().text = "Description: " + s;
     }
 
-    private static SetDescription(string s)
+    private static void SetDescription(string s)
     {
         GameObject.FindWithTag("Description").GetComponent<Text>().text = "Description: " + s;
     }
