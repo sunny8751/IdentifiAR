@@ -3,7 +3,7 @@ Shop smartly. With IdentifiAR, make calculated purchases instantly with product 
 
 ![Logo](https://raw.githubusercontent.com/sunny8751/IdentifiAR/master/Assets/Images/logo.jpg)
 
-![Demo](https://raw.githubusercontent.com/sunny8751/IdentifiAR/master/Assets/Images/demo.jpg)
+![Demo](https://raw.githubusercontent.com/sunny8751/IdentifiAR/c65f51d66f67afcdc336033c34fa517227f1ea0d/Assets/Images/logo.jpg)
 
 ## What inspired us
 Inspired by Amazon’s push towards Amazon Go and the “grocery store of the future,” we took our passion for augmented reality and built the experience we've always dreamed of living.
