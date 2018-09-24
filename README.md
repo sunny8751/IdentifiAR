@@ -1,8 +1,6 @@
 # IdentifiAR
 Shop smartly. With IdentifiAR, make calculated purchases instantly with product research at your fingertips.
 
-![Logo](https://raw.githubusercontent.com/sunny8751/IdentifiAR/c65f51d66f67afcdc336033c34fa517227f1ea0d/Assets/Images/logo.jpg)
-
 ![Demo](https://raw.githubusercontent.com/sunny8751/IdentifiAR/master/Assets/Images/logo.jpg)
 
 ## What inspired us
