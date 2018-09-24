@@ -1,7 +1,9 @@
 # IdentifiAR
 Shop smartly. With IdentifiAR, make calculated purchases instantly with product research at your fingertips.
 
-![Demo](https://raw.githubusercontent.com/sunny8751/IdentifiAR/master/Assets/Images/logo.jpg)
+![Logo](https://raw.githubusercontent.com/sunny8751/IdentifiAR/master/Assets/Images/logo.jpg)
+
+![Demo](https://raw.githubusercontent.com/sunny8751/IdentifiAR/master/Assets/Images/demo.jpg)
 
 ## What inspired us
 Inspired by Amazon’s push towards Amazon Go and the “grocery store of the future,” we took our passion for augmented reality and built the experience we've always dreamed of living.
